@@ -315,11 +315,10 @@ body {
 }
 .address {
 }
-.address-items {
-}
+.address-items{}
 .map-list {
   list-style: none;
-}
+} 
 .map-item {
   font-weight: 400;
   font-size: 14px;
@@ -327,7 +326,8 @@ body {
   letter-spacing: 0.03em;
   text-decoration: none;
   color: #ffffff;
-}
+} 
+.map-item:hover,.map-item:focus {color: #2196f3;}
 .mail-list {
   list-style: none;
 }
@@ -338,7 +338,7 @@ body {
   letter-spacing: 0.03em;
   text-decoration: none;
   color: rgba(255, 255, 255, 0.6);
-}
+}.mail-item:hover,.mail-item:focus {color: #2196f3;}
 .call-list {
   list-style: none;
 }
@@ -350,6 +350,7 @@ body {
   text-decoration: none;
   color: rgba(255, 255, 255, 0.6);
 }
+.call-item:hover,.call-item:focus {color: #2196f3;}
 .body{background: #E5E5E5;}
 .portfolio-main-container {
 }
