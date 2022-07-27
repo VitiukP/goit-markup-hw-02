@@ -104,6 +104,7 @@ font-weight: 900;
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
+  font-family: inherit;
 
   color: #ffffff;
   background: var(--hover-color);
@@ -357,6 +358,7 @@ font-weight: 400;
 }
 
 .btn-all{
+  font-family: inherit;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.2;
@@ -365,45 +367,7 @@ color: var(--primary-text-color);
   background: #F5F4FA;
 border-radius: 4px;}
 .btn-all:hover,.btn-all:focus{color: #FFFFFF; background: var(--hover-color);}
-.btn-site{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.2;
-letter-spacing: 0.03em;
-color: var(--primary-text-color);
-  background: #F5F4FA;
-border-radius: 4px;}
-.btn-site:hover,.btn-site:focus{color: #FFFFFF; background: var(--hover-color);}
-.btn-app{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.2;
-letter-spacing: 0.03em;
-color: var(--primary-text-color);
-  background: #F5F4FA;
-border-radius: 4px;}
-.btn-app:hover,.btn-app:focus{color: #FFFFFF; background:var(--hover-color);}
-.btn-design{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.2;
-letter-spacing: 0.03em;
-color: var(--primary-text-color);
-  background: #F5F4FA;
-border-radius: 4px;}
-.btn-design:hover,.btn-design:focus{color: #FFFFFF; background:var(--hover-color);}
-.btn-marketing{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.2;
-letter-spacing: 0.03em;
-color: var(--primary-text-color);
-  background: #F5F4FA;
-border-radius: 4px;}
-.btn-marketing:hover,.btn-marketing:focus{color: #FFFFFF; background:var(--hover-color);}
-.big-portfolio-items{list-style: none;}
-.color-card{background: #FFFFFF;
-border: 1px solid #EEEEEE;}
+
 .style-sheet{
 font-size: 18px;
 line-height: 2.0;
