@@ -1,7 +1,6 @@
 /*color: #212121;*/
 
 body{font-family:"Roboto";}
-
 .header {
 }
 .menu-nav {
@@ -13,6 +12,7 @@ body{font-family:"Roboto";}
   letter-spacing: 0.03em;
   text-decoration: none;
   color: #000000;
+  
 }
 .logo-black {
   color: #2196f3;
@@ -25,6 +25,7 @@ body{font-family:"Roboto";}
   color: #2196f3;
 }
 .linkstudio {
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -32,7 +33,7 @@ body{font-family:"Roboto";}
   color: #757575;
 }
 .linkportfolio {
-
+font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -40,7 +41,7 @@ body{font-family:"Roboto";}
   color: #757575;
 }
 .linkcontact {
-
+font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -51,6 +52,7 @@ body{font-family:"Roboto";}
   list-style: none;
 }
 .mail-link {
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -58,6 +60,7 @@ body{font-family:"Roboto";}
   color: #757575;
 }
 .call-link {
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -77,7 +80,7 @@ body{font-family:"Roboto";}
   background: #2f303a;
 }
 .slogan {
-
+font-weight: 900;
   font-size: 44px;
   line-height: 1.4;
   text-align: center;
@@ -87,7 +90,7 @@ body{font-family:"Roboto";}
   color: #ffffff;
 }
 .main-btn {
- 
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.9;
   display: flex;
@@ -112,68 +115,78 @@ body{font-family:"Roboto";}
   list-style: none;
 }
 .hiden-title {
+  
   font-size: 1px;
   line-height: 1px;
   margin: -0.1;
 }
 .caption-detail {
-
+font-weight: 700;
   font-size: 14px;
   line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .detail-text {
-
+width: 270px;
+height: 75px;
+font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
+
 }
 .caption-punctuality {
- 
+ font-weight: 700;
   font-size: 14px;
   line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .punctuality-text {
- 
+width: 270px;
+height: 75px;
+font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
 }
 .caption-plan {
-
+font-weight: 700;
   font-size: 14px;
   line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .plan-text {
-  
+width: 270px;
+height: 75px;
+font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
 }
 .caption-tech {
- 
+ font-weight: 700;
   font-size: 14px;
   line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .tech-text {
-
+width: 270px;
+height: 75px;
+font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
 }
 .affair-title {
- 
+ font-weight: 700;
   font-size: 36px;
   line-height: 1.2;
   text-align: center;
@@ -186,7 +199,7 @@ body{font-family:"Roboto";}
   background: #f5f4fa;
 }
 .comand-title {
-  
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.2;
   text-align: center;
@@ -201,7 +214,7 @@ body{font-family:"Roboto";}
 .card-title {
 
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -209,7 +222,7 @@ body{font-family:"Roboto";}
 .card-text {
 
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -221,7 +234,7 @@ body{font-family:"Roboto";}
 
  
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -229,7 +242,7 @@ body{font-family:"Roboto";}
 .box-text {
 
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -240,7 +253,7 @@ body{font-family:"Roboto";}
 .pic-title {
   
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -248,7 +261,7 @@ body{font-family:"Roboto";}
 .pic-text {
  
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -259,7 +272,7 @@ body{font-family:"Roboto";}
 .avatar-title {
  
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -268,7 +281,7 @@ body{font-family:"Roboto";}
 
 
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -337,7 +350,7 @@ body{font-family:"Roboto";}
 }
 
 .btn-all{
-
+font-weight: 500;
 font-size: 16px;
 line-height: 1.2;
 letter-spacing: 0.03em;
@@ -346,7 +359,7 @@ color: #212121;
 border-radius: 4px;}
 .btn-all:hover,.btn-all:focus{color: #FFFFFF; background: #2196F3;}
 .btn-site{
-
+font-weight: 500;
 font-size: 16px;
 line-height: 1.2;
 letter-spacing: 0.03em;
@@ -355,7 +368,7 @@ color: #212121;
 border-radius: 4px;}
 .btn-site:hover,.btn-site:focus{color: #FFFFFF; background: #2196F3;}
 .btn-app{
-
+font-weight: 500;
 font-size: 16px;
 line-height: 1.2;
 letter-spacing: 0.03em;
@@ -364,7 +377,7 @@ color: #212121;
 border-radius: 4px;}
 .btn-app:hover,.btn-app:focus{color: #FFFFFF; background: #2196F3;}
 .btn-design{
-
+font-weight: 500;
 font-size: 16px;
 line-height: 1.2;
 letter-spacing: 0.03em;
@@ -373,7 +386,7 @@ color: #212121;
 border-radius: 4px;}
 .btn-design:hover,.btn-design:focus{color: #FFFFFF; background: #2196F3;}
 .btn-marketing{
-
+font-weight: 500;
 font-size: 16px;
 line-height: 1.2;
 letter-spacing: 0.03em;
@@ -386,13 +399,13 @@ border-radius: 4px;}
 border: 1px solid #EEEEEE;}
 .style-sheet{
 font-size: 18px;
-line-height: 36px;
+line-height: 2.0;
 letter-spacing: 0.06em;
 
 color: #212121;}
 .style-sheet-text{
 font-size: 16px;
-line-height: 30px;
+line-height: 1.9;
 letter-spacing: 0.03em;
 
 color: #757575;}
